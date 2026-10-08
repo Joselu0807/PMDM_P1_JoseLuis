@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SenderosSevilla</string>
+    <string name="welcome_message">Welcome, Jose Luis</string>
+    <string name="hint_username">Jose Luis</string>
+    <string name="btn_start_route">Start Route</string>
+    <string name="btn_view_history">History</string>
+</resources>
