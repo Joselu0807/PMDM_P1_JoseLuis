@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 String message = getString(R.string.welcome_message, name);
                 tvWelcome.setText(message);
                 Toast.makeText(this, "¡Ruta iniciada con éxito!", Toast.LENGTH_SHORT).show();
+
             }
         });
     }
