@@ -22,4 +22,4 @@ La aplicación permite al usuario introducir su nombre en la pantalla principal 
 4. Ejecutar la aplicación en un emulador configurado (como Pixel 7).
 
 ## Autor
-* Jose Luis Martín Blanco (MEDAC)
+* Jose Luis Martín Blanco 
