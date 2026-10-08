@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">PMDM_P1_JoseLuis</string>
+    <string name="app_name">SenderosSevilla</string>
+    <string name="welcome_message">Bienvenido, %1$s</string>
+    <string name="btn_start_route">Iniciar Ruta</string>
+    <string name="btn_view_history">Historial</string>
+    <string name="label_distance">Distancia recorrida</string>
+    <string name="label_time">Tiempo transcurrido</string>
+    <string name="hint_username">Introduce tu nombre</string>
+    <string name="error_empty_field">El campo no puede estar vacío</string>
+
+    <string-array name="dificultad_array">
+        <item>Fácil</item>
+        <item>Media</item>
+        <item>Difícil</item>
+    </string-array>
 </resources>
