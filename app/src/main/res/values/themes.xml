@@ -2,7 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.PMDM_P1_JoseLuis" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/color_primario</item>
+        <item name="colorSecondary">@color/color_secundario</item>
+        <item name="android:windowBackground">@color/color_fondo</item>
     </style>
 
     <style name="Theme.PMDM_P1_JoseLuis" parent="Base.Theme.PMDM_P1_JoseLuis" />
